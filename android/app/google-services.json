@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "513763014854",
+    "firebase_url": "https://chat-416c0.firebaseio.com",
+    "project_id": "chat-416c0",
+    "storage_bucket": "chat-416c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513763014854:android:cc24bc8ff960649ef43fc7",
+        "android_client_info": {
+          "package_name": "com.nayna.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513763014854-8ifk1rkdqttochgk6c7mumqluh09fbr8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCky5n1HYQGGHXvo-OxDVMBg10evWHYg2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513763014854-8ifk1rkdqttochgk6c7mumqluh09fbr8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
